@@ -1,0 +1,22 @@
+[
+    {
+        "name": "Bolay",
+        "location": "Boca Raton FL",
+        "type": "Healthy American",
+        "price": "$$"
+    },
+
+    {
+        "name": "Table 26",
+        "location": "West Palm Beach FL",
+        "type": "Americano",
+        "price": "$$$$"
+    },
+
+    {
+        "name": "Ruth Chris's",
+        "location": "Boca Raton FL",
+        "type": "Chinese",
+        "price": "$$$"
+    }
+]
